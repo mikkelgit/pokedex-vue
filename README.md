@@ -1,20 +1,19 @@
-# pokedex-vue
 
-## Build Setup
+# Pokedex Vue
+Pokedex Web App made with Nuxt.js
 
-```bash
-# install dependencies
-$ npm install
+Used library/framework : Vue.js (Nuxt), Vuex, TailwindCSS, Axios
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+[Deploy Link](https://pokedex-app-vue.web.app/)
 
-# build for production and launch server
-$ npm run build
-$ npm run start
+[App Demo](https://streamable.com/p7nbx9)
 
-# generate static project
-$ npm run generate
+## How to run this web app locally
+
+Install required modules with npm
+
+```bash 
+  npm install
+  npm run dev
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+    
